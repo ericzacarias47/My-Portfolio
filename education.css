@@ -1,0 +1,57 @@
+body{
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    background: black;
+}
+
+h1{
+text-align: center;
+color: #b74b4b;
+}
+
+h3{
+color: #b74b4b;
+text-align: center;
+}
+
+hr{
+border: 3px solid #b74b4b;
+}
+
+p{
+color: white;
+text-align: center;
+}
+
+li{
+color: white;
+text-align: center;
+list-style: none;
+}
+
+b{
+color: red;
+font-style: italic;
+}
+
+blockquote{
+color: white;
+font-style: italic;
+text-align: center;
+}
+
+.fa-free-code-camp{
+color: whitesmoke;
+font-size: 20px;
+}
+
+.fa-folder-open{
+color: peachpuff;
+font-size: 20px;
+}
+
+.fa-youtube{
+color: red;
+font-size: 20px;
+}
